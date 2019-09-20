@@ -56,8 +56,36 @@ html {
 #middlerow {
     height: 100px;
     width: 300px;
+    float: right;
 }
 #smallbox {
     height: 45px;
     width: 20px;
+}
+#divider3 {
+    height: 10px;
+    width: 400px;
+}
+#smallbox2 {
+    height: 45px;
+    width: 20px;
+}
+#divider4 {
+    height: 10px;
+    width: 20px;
+}
+.widebox {
+    height: 100px;
+    width: 260px;
+}
+.square {
+    height: 100px;
+    width: 100px;
+}
+.left {
+    float: left;
+}
+.divider5 {
+    height: 100px;
+    width: 10px;
 }
